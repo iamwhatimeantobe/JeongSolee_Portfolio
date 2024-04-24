@@ -1,5 +1,5 @@
 ## 정소리의 데이터 분석 포트폴리오입니다 🙂
-아래 링크는 작업 Github로 이동합니다.
+SQL과 웹크롤링이 아닌 프로젝트는 각각 github link가 존재합니다! 아래 링크를 클릭하면 해당 Github로 이동합니다.
 
 - [고객 대출 등급 분류 예측](https://github.com/iamwhatimeantobe/Dacon_CreditScore) <br>
   : Log 변환 + Xgboost / RandomForest / DecisionTree
